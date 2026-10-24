@@ -1,0 +1,258 @@
+{
+  "metadata": {
+    "title": "Babajee Misthan Bhandar | The Original Balushahi Shop of Runni Saidpur",
+    "description": "Authentic heritage sweets on NH-77, Runni Saidpur. Order handcrafted Balushahi, traditional Rasgulla, and fresh desi ghee mithai."
+  },
+  "shop": {
+    "name": "Babajee Misthan Bhandar",
+    "hindiName": "बाबाजी मिष्ठान भंडार",
+    "tagline": "The Original \"Balushahi Shop\" · Since Decades",
+    "description": "Authentic heritage sweet shop renowned across Bihar for handcrafted Balushahi, traditional Rasgulla, and fresh desi ghee mithai on NH-77.",
+    "shareText": "The Original Balushahi Shop of Runni Saidpur, Bihar on NH-77!",
+    "category": "Sweet Shop · Verified Listing",
+    "rating": 4.1,
+    "reviewCount": 598,
+    "phone": "099342 02384",
+    "phoneLink": "tel:09934202384",
+    "whatsappNumber": "919934202384",
+    "whatsappGreeting": "Hello Babajee Misthan, I would like to order sweets",
+    "address": "NH-77, Runni Saidpur Madhya, Bihar 843328",
+    "plusCode": "9GV3+5Q",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Babajee+Misthan+Bhandar+NH-77+Runni+Saidpur+Madhya+Bihar+843328",
+    "fullAddress": "Babajee Misthan Bhandar, NH-77, Runni Saidpur Madhya, Bihar 843328 (Plus Code: 9GV3+5Q)",
+    "openStatus": "Open Now · Closes 9:00 PM",
+    "hours": "Monday to Sunday: 7:00 AM – 9:00 PM",
+    "fulfillment": "In-store shopping, Takeaway & Highway Delivery",
+    "serviceNote": "Clean premises & friendly staff"
+  },
+  "labels": {
+    "statusBar": "NH-77 Runni Saidpur Madhya · Open Now · Closes 9:00 PM",
+    "headerButtons": {
+      "directions": "Get Driving Directions",
+      "whatsappOrder": "WhatsApp Order",
+      "copyAddress": "Copy Address"
+    },
+    "accessibility": {
+      "shareShop": "Share shop",
+      "saveFavorite": "Save to favorites",
+      "removeFavorite": "Remove from favorites"
+    },
+    "services": ["In-store Shopping", "Pick-up", "Delivery"],
+    "navigation": [
+      { "id": "overview", "label": "Overview" },
+      { "id": "menu", "label": "Famous Balushahi" },
+      { "id": "order-builder", "label": "Quick Order" },
+      { "id": "popular-times", "label": "Popular Times" },
+      { "id": "reviews", "label": "Reviews (598)" },
+      { "id": "location", "label": "Location & NH-77" }
+    ],
+    "overview": [
+      {
+        "icon": "fa-location-dot",
+        "title": "Highway Location",
+        "description": "NH-77, Runni Saidpur Madhya, Bihar 843328",
+        "detail": "Plus Code: 9GV3+5Q",
+        "iconStyle": "bg-amber-100 text-xl text-heritage-terracotta"
+      },
+      {
+        "icon": "fa-clock",
+        "title": "Store Timings",
+        "description": "Open Now · Closes 9:00 PM",
+        "detail": "Monday to Sunday: 7:00 AM – 9:00 PM",
+        "iconStyle": "bg-emerald-100 text-xl text-emerald-800"
+      },
+      {
+        "icon": "fa-bag-shopping",
+        "title": "Order Fulfillment",
+        "description": "In-store shopping, Takeaway & Highway Delivery",
+        "detail": "Clean premises & friendly staff",
+        "iconStyle": "bg-orange-100 text-xl text-heritage-saffron"
+      }
+    ],
+    "menu": {
+      "eyebrow": "Runni Saidpur's Renowned Delicacies",
+      "title": "Authentic Sweet Heritage",
+      "reviewNote": "73+ Verified Google Reviews Praise Our Balushahi",
+      "selectButton": "Select for Order",
+      "verifiedReviewCount": "73+ Verified Google Reviews Praise Our Balushahi"
+    },
+    "order": {
+      "eyebrow": "Direct Highway Pickup & Delivery",
+      "title": "Pre-Order Fresh Balushahi",
+      "description": "Select your sweet and weight below to skip highway parking delays. We will have your fresh box packaged and ready for rapid handover.",
+      "sweetLabel": "Selected Mithai",
+      "weightLabel": "Select Weight / Quantity",
+      "customWeightLabel": "Or enter a custom weight (kg)",
+      "customWeightHint": "Enter at least 0.1 kg. Price updates automatically.",
+      "invalidWeight": "Enter a valid weight of at least 0.1 kg.",
+      "customWeightMin": 0.1,
+      "customWeightStep": 0.1,
+      "totalLabel": "Estimated Total",
+      "sendButton": "Send Order",
+      "weights": [
+        { "value": 0.5, "label": "500 g" },
+        { "value": 1, "label": "1 kg" },
+        { "value": 2, "label": "2 kg" }
+      ]
+    },
+    "popularTimes": {
+      "title": "Popular Times",
+      "description": "Footfall pattern directly from our Google Maps profile",
+      "day": "Wednesdays",
+      "peakLabel": "Busiest",
+      "footfallNote": "Evening hours (5:30 PM – 7:30 PM) experience maximum footfall from Muzaffarpur–Sitamarhi highway commuters.",
+      "bars": [
+        { "time": "7a", "height": "25%" },
+        { "time": "9a", "height": "50%" },
+        { "time": "12p", "height": "70%" },
+        { "time": "3p", "height": "65%" },
+        { "time": "6p", "height": "95%", "peak": true },
+        { "time": "9p", "height": "40%" }
+      ],
+      "parkingTitle": "Highway & Parking Note",
+      "parkingQuote": "“Great place but generally much traffic and difficulty in parking.”",
+      "parkingTips": [
+        "Quick curbside handover for car travelers",
+        "Call 5 mins prior for seamless collection"
+      ],
+      "callButton": "Call for Curbside Handover"
+    },
+    "reviews": {
+      "eyebrow": "Google Maps Feedback",
+      "title": "598 Customer Reviews",
+      "writeButton": "Write a Review",
+      "scoreLabel": "Overall Rating (598 Reviews)",
+      "distribution": [
+        { "rating": 5, "percentage": 68 },
+        { "rating": 4, "percentage": 18 },
+        { "rating": 3, "percentage": 7 },
+        { "rating": 2, "percentage": 3 },
+        { "rating": 1, "percentage": 4 }
+      ],
+      "highlights": [
+        { "quote": "\"Great Service 👌 Nice Staff behaviour\"", "style": "border-emerald-100 bg-emerald-50 text-emerald-950", "iconStyle": "text-emerald-500" },
+        { "quote": "\"Great product at good price Quality is best Perfect location\"", "style": "border-blue-100 bg-blue-50 text-blue-950", "iconStyle": "text-blue-500" },
+        { "quote": "\"Great place but generally much traffic and difficultly in parking.\"", "style": "border-amber-100 bg-amber-50 text-amber-950", "iconStyle": "text-amber-500" }
+      ],
+      "filters": [
+        { "value": "all", "label": "All (598)" },
+        { "value": "balushahi", "label": "balushahi (73)" },
+        { "value": "authentic", "label": "authentic balooshahi mithai (2)" },
+        { "value": "quality", "label": "quality of sweets (3)" },
+        { "value": "variety", "label": "variety of sweets (5)" }
+      ],
+      "visitorUpdate": "Google Maps Visitor Update: अद्भुत स्वाद 😋",
+      "visitorUpdateAge": "4 years ago",
+      "newReviewCategories": ["balushahi", "quality"],
+      "newReviewColor": "bg-heritage-russet",
+      "form": {
+        "title": "Share Your Experience",
+        "nameLabel": "Your Name",
+        "namePlaceholder": "e.g. Anand Prakash",
+        "ratingLabel": "Rating",
+        "commentLabel": "Review",
+        "commentPlaceholder": "Write about the taste, quality, packaging, or staff...",
+        "submitButton": "Submit Review",
+        "cancelButton": "Cancel",
+        "ratingOptions": [
+          { "value": 5, "label": "★★★★★ (5/5) Superb Balushahi & Service" },
+          { "value": 4, "label": "★★★★☆ (4/5) Very Good" },
+          { "value": 3, "label": "★★★☆☆ (3/5) Average" },
+          { "value": 2, "label": "★★☆☆☆ (2/5) Below Average" },
+          { "value": 1, "label": "★☆☆☆☆ (1/5) Poor" }
+        ]
+      },
+      "newReviewLabel": "Just now · Verified Highway Traveler"
+    },
+    "location": {
+      "eyebrow": "Visit Babajee Misthan",
+      "title": "NH-77 Highway Location",
+      "description": "Located directly on National Highway 77, Runni Saidpur Madhya, Bihar 843328. Easily accessible for all travelers traveling along the Patna – Muzaffarpur – Sitamarhi highway corridor.",
+      "mapButton": "Open in Google Maps",
+      "plusCodeLabel": "Plus Code:",
+      "hoursLabel": "Open Daily · 7:00 AM – 9:00 PM"
+    },
+    "footer": {
+      "hindiLocation": "बाबाजी मिष्ठान भंडार · रुन्नी सैदपुर, बिहार",
+      "verification": "Official Web Profile · Synced with Verified Google Maps Listing"
+    },
+    "actions": {
+      "copyFailure": "Could not copy to clipboard. Please check your browser permissions.",
+      "shareFailure": "Sharing is unavailable right now.",
+      "websiteCopied": "Website link copied to clipboard!",
+      "saved": "Saved to your favorites!",
+      "unsaved": "Removed from favorites",
+      "addressCopied": "Address & Plus Code copied!",
+      "phoneLabel": "Phone:",
+      "quickSelectPrefix": "Selected ",
+      "quickSelectSuffix": " for quick order",
+      "closeReviewForm": "Close review form",
+      "reviewSubmitted": "Review submitted successfully!"
+    }
+  },
+  "sweets": [
+    {
+      "name": "Runni Saidpur Balushahi",
+      "price": 220,
+      "badge": "#1 Original Specialty",
+      "description": "Golden-crusted, multi-layered flaky pastry with a fragrant traditional taste, prepared fresh for sweet lovers and highway travelers.",
+      "note": "73 Maps mentions · Authentic Balooshahi",
+      "badgeStyle": "bg-amber-100 text-heritage-russet",
+      "noteStyle": "text-emerald-700",
+      "borderStyle": "border-amber-900/15"
+    },
+    {
+      "name": "Kalajamun | Chhena Galebi",
+      "price": 250,
+      "badge": "Traveler's Choice",
+      "description": "A selection of local favorites, including rich Kalajamun and fresh chhena galebi with an authentic regional taste.",
+      "note": "Featured in Local Guide reviews",
+      "badgeStyle": "bg-stone-100 text-stone-800",
+      "noteStyle": "text-amber-700",
+      "borderStyle": "border-stone-200"
+    },
+    {
+      "name": "Rasgulla",
+      "price": 250,
+      "badge": "Fresh Daily",
+      "description": "Soft, syrup-soaked rasgulla prepared for celebrations, temple offerings, and travelers taking a sweet box home.",
+      "note": "Clean shop & reasonable prices",
+      "badgeStyle": "bg-stone-100 text-stone-800",
+      "noteStyle": "text-emerald-700",
+      "borderStyle": "border-stone-200"
+    }
+  ],
+  "reviewEntries": [
+    {
+      "name": "Abhishek Kumar",
+      "initials": "AK",
+      "detail": "Local Guide · 70 reviews · 312 photos",
+      "ago": "2 years ago",
+      "rating": 5,
+      "title": "Review of Babaji Misthan - The Original \"Balushahi Shop\"",
+      "comment": "“The Original and the Best: Babaji Misthan is the shop that truly defines the authentic Balushahi taste of Runni Saidpur. A true landmark for mithai lovers in Bihar.”",
+      "categories": ["balushahi", "authentic"],
+      "color": "bg-heritage-russet"
+    },
+    {
+      "name": "Mahtab Alam",
+      "initials": "MA",
+      "detail": "Local Guide · 85 reviews · 162 photos",
+      "ago": "6 months ago",
+      "rating": 4,
+      "comment": "“One of the many shops offering the locally popular Balushahi, a type of Rasgulla of dark saffron color, has the taste little different from Kalajamun or even Gulabjamun.”",
+      "categories": ["balushahi", "variety"],
+      "color": "bg-emerald-800"
+    },
+    {
+      "name": "Gaurav",
+      "initials": "G",
+      "detail": "Local Guide · 33 reviews · 12 photos",
+      "ago": "7 months ago",
+      "rating": 5,
+      "comment": "“Baba Misthan Mithapur kaafi achha sweet shop hai. Yahan ke mithai fresh, tasty aur reasonable price par milte hain. Shop clean rehti hai aur staff ka behaviour bhi friendly hai. Local logon ke liye ek trusted jagah hai.”",
+      "categories": ["quality", "variety"],
+      "color": "bg-rose-700"
+    }
+  ]
+}
